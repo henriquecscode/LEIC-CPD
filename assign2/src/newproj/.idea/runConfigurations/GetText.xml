@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GetText" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="16" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="client.TestClient" />
+    <module name="newproj.main" />
+    <option name="PROGRAM_PARAMETERS" value="127.0.0.1:1235 get 6937168c1420a05563d26ea6758f6e7f0b89d4950e320522844e856054c9e66d" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
